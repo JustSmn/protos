@@ -1,4 +1,4 @@
-module github.com/JustSmn/sso-protos
+module github.com/JustSmn/protos
 
 go 1.24.11
 
